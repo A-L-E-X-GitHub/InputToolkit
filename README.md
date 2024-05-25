@@ -5,3 +5,4 @@ The InputToolkit (originally named MouseHelper) is a application that lets the u
 It was intended for the project to also allow keystrokes from the keyboard but due to time constraints it was never added.
 
 - The application can be ran with the InputToolkit.exe file, it does not require any other files.
+- The primary source files can be found in the forms folder.
